@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Oscar Finance</string>
+
+    <string name="balance">Balance:</string>
+    <string name="testNum">23.75 S/.</string>
+    <string name="testDay">Domingo 06/03/2022</string>
+    <string name="expences">Gastos del día</string>
+    <string name="spending">Gasto</string>
+    <string name="entry">Ingreso</string>
+    <string name="category">Categoría de gastos:</string>
+    <string name="subcategory">Subcategoría de gastos:</string>
+    <string name="source">Fuente de ingresos:</string>
+    <string name="store">Almacenamiento:</string>
+    <string name="create">Crear categoría</string>
+    <string name="add">Añadir tarjeta</string>
+    <string name="addItem">Añadir item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
